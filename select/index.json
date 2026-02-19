@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Fleisch",
+  "base_artist": "Seelenzorn",
+  "createdAt": "2026-02-19T10:08:34.292576Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Weisses Fleisch",
+      "artist": "Rammstein",
+      "has_synced": true,
+      "path": "select/01_Weisses_Fleisch_Rammstein.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Arbeit Macht Fleisch",
+      "artist": "Carcass",
+      "has_synced": true,
+      "path": "select/02_Arbeit_Macht_Fleisch_Carcass.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Weisses Fleisch",
+      "artist": "Rammstein",
+      "has_synced": true,
+      "path": "select/03_Weisses_Fleisch_Rammstein.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fleisch un Bloot",
+      "artist": "Kasalla",
+      "has_synced": true,
+      "path": "select/04_Fleisch_un_Bloot_Kasalla.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ich ess Fleisch",
+      "artist": "Kasalla",
+      "has_synced": false,
+      "path": "select/05_Ich_ess_Fleisch_Kasalla.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ich ess Fleisch (met der K)",
+      "artist": "Kasalla",
+      "has_synced": false,
+      "path": "select/06_Ich_ess_Fleisch_(met_der_K)_Kasalla.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fleisch und Blut",
+      "artist": "Brings",
+      "has_synced": false,
+      "path": "select/07_Fleisch_und_Blut_Brings.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Weißes Fleisch",
+      "artist": "Rammstein",
+      "has_synced": true,
+      "path": "select/08_Weißes_Fleisch_Rammstein.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Weisses Fleisch",
+      "artist": "Rammstein",
+      "has_synced": false,
+      "path": "select/09_Weisses_Fleisch_Rammstein.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Weisses Fleisch - Live",
+      "artist": "Rammstein",
+      "has_synced": true,
+      "path": "select/10_Weisses_Fleisch_-_Live_Rammstein.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Weißes Fleisch [Live]",
+      "artist": "Rammstein",
+      "has_synced": true,
+      "path": "select/11_Weißes_Fleisch_[Live]_Rammstein.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Angst wird Fleisch",
+      "artist": "Eisregen",
+      "has_synced": false,
+      "path": "select/12_Angst_wird_Fleisch_Eisregen.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fleisch und Fell",
+      "artist": "OOMPH!",
+      "has_synced": true,
+      "path": "select/13_Fleisch_und_Fell_OOMPH!.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Altes Fleisch",
+      "artist": "Till Lindemann",
+      "has_synced": true,
+      "path": "select/14_Altes_Fleisch_Till_Lindemann.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fleisch",
+      "artist": "K.I.Z",
+      "has_synced": true,
+      "path": "select/15_Fleisch_K.I.Z.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fleisch",
+      "artist": "Seelenzorn",
+      "has_synced": false,
+      "path": "select/pl_01_Fleisch_Seelenzorn.txt"
+    }
+  ]
+}
